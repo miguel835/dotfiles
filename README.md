@@ -5,7 +5,10 @@ Esta es mi configuración para mi Arch Linux 2025
 ![Hyprland](/assets/1.png)
 ![Hyprland](/assets/4.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iw52h6qvUi4?si=tgZzlD3-PzK5MA9m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Video Demo 
+Tengo un video demo mostrando mi configuración de Arch Linux <https://www.youtube.com/watch?v=Iw52h6qvUi4>
+
+
 
 ## Herramientas usadas
 
